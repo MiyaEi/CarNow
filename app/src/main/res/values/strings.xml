@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CarNow</string>
+
+    <string-array name="CarType">
+        <item>Viva</item>
+        <item>Axia</item>
+        <item>Bezza</item>
+        <item>Saga</item>
+
+    </string-array>
+
+    <string-array name="SeaterType">
+        <item>Four Seater</item>
+        <item>Six Seater</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223964333289",
+    "firebase_url": "https://carnow-9c803-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carnow-9c803",
+    "storage_bucket": "carnow-9c803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223964333289:android:2c7b859b9967de8b915c78",
+        "android_client_info": {
+          "package_name": "com.example.carnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223964333289-agau0otsib2vctf3fdvi476gfl8i27p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZy-gnl8bJxaLbOAVR9y49i9kG_x2hcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223964333289-agau0otsib2vctf3fdvi476gfl8i27p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
